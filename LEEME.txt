@@ -1,0 +1,7 @@
+Dolores AR - archivos del manual TDD (realidad aumentada)
+
+1) Descomprime sobre tu carpeta dolores_ar (reemplaza lib/, test/, android/, README.md)
+2) En la raiz del proyecto:  flutter pub add camera geolocator flutter_compass model_viewer_plus
+3) flutter test      -> 42 pruebas en verde
+4) flutter run       -> Modo demo en Chrome/Windows o en Android
+   (GPS real, brujula y camara solo en un telefono Android)
